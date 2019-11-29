@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Product Management, Financial Services, Data Analysis
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Product Manager
+- Experience in Finance and Ethical Supply Chain
+- Passed CFA Level III, MBA Finance
+- Data Analyst Nano degree From Udacity
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+ashi.rizvi@gmail.com
